@@ -1,0 +1,30 @@
+{
+    "formatVersion": "1.0",
+    "title": "YCLMazeMakerPlaygroundBook",
+    "subtitle": "Simple maze making tools",
+    "publisherName": "Marcelo Paredes",
+    "feedIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1"
+    "contactURL": "https://www.facebook.com/yurai.cl",
+    "documents": [
+                  "title": "YCLMazeMaker",
+                  "overviewSubtitle": "Simple maze making tools",
+                  "description": "Tools for making simple mazes",
+                  "difficultyLevel": "beginner",
+                  "contentIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.mazes",
+                  "contentVersion": "1.0",
+                  "url": "maze/book.zip",
+                  "publishedDate": "2018-01-28T00:00:00+00:00",
+                  "lastUpdateDate": "2018-01-28T00:00:00+00:00",
+                  "thumbnailURL": "maze/thumbnail.png",
+                  "bnnerImageURL": "maze/banner.png",
+                  "additionalInformation": [
+                  {
+                                            "name": "Languages",
+                                            "value": "English"
+                  }
+                  ],
+                  "previewImageURLs": [
+                  "mazes/preview1.png"
+                  ]
+    ]
+}
