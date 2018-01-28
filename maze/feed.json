@@ -8,13 +8,14 @@
     "documents": [{
         "title": "YCLMazeMaker",
         "overviewSubtitle": "Simple maze making tools",
+        "detailSubtitle": "making mazes with simple rules",
         "description": "Tools for making simple mazes",
         "difficultyLevel": "beginner",
         "contentIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.mazes",
         "contentVersion": "1.0",
         "url": "book.zip",
         "publishedDate": "2018-01-28T00:00:00+00:00",
-        "lastUpdateDate": "2018-01-28T00:00:00+00:00",
+        "lastUpdateDate": "2018-01-28T00:00:00+00:01",
         "thumbnailURL": "thumbnail.png",
         "bannerImageURL": "banner.png",
         "additionalInformation": [{
