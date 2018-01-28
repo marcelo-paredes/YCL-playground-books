@@ -16,7 +16,7 @@
         "publishedDate": "2018-01-28T00:00:00+00:00",
         "lastUpdateDate": "2018-01-28T00:00:00+00:00",
         "thumbnailURL": "thumbnail.png",
-        "bnnerImageURL": "banner.png",
+        "bannerImageURL": "banner.png",
         "additionalInformation": [{
             "name": "Languages",
             "value": "English"
