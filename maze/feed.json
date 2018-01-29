@@ -9,10 +9,10 @@
         "subtitle": "Simple Maze making tools",
         "description": "Tools for making simple mazes",
         "contentIdentifier": "cl.yurai.playgrounds.mazes",
-        "contentVersion": "1.0",
+        "contentVersion": "1.0.1",
         "url": "https://marcelo-paredes.github.io/YCL-playground-books/maze/YCLMazeMaker.playgroundbook.zip",
         "publishedDate": "2018-01-28T12:00:00+00:00",
-        "lastUpdatedDate": "2018-01-28T13:00:30+00:00",
+        "lastUpdatedDate": "2018-01-29T13:12:00-04:00",
         "thumbnailURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/thumbnail.png",
         "bannerImageURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/banner.png",
         "additionalInformation": [{
@@ -34,6 +34,6 @@
             }
         ],
         "previewImageURLs": [],
-        "sha512": "b17848c183aa46b20fa128baf5850e8f1876b688c09bde77702e82775a635430ec4f992dbe69463963efd714d6673f160bf62a18d88740878cd5f59a0b5903fc"
+        "sha512": "b8834d4c89d3245e8b5bc071084eae58a33957a7ef88879aff33b972bd1a2ab04e0a6bf9709e972e473513b81238b716ed29593f965e4317cba2f68cfc87a52a"
     }]
 }
