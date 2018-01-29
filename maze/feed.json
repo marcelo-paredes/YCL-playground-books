@@ -3,7 +3,7 @@
     "subtitle": "Simple maze making tools",
     "publisherName": "Marcelo Paredes",
     "feedIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1",
-    "contactURL": "https://www.facebook.com/yurai.cl/",
+    "contactURL": "mailto:yurai.cl@gmail.com",
     "formatVersion": "1.0",
     "documents": [{
         "title": "YCLMazeMaker",
@@ -18,9 +18,14 @@
         "thumbnailURL": "/YCL-playground-books/maze/thumbnail.png",
         "bannerImageURL": "/YCL-playground-books/maze/banner.png",
         "additionalInformation": [{
-            "name": "Languages",
-            "value": "English"
-        }],
+                "name": "Languages",
+                "value": "English"
+            },
+            {
+                "name": "Publisher",
+                "value": "Yurai.CL"
+            }
+        ],
         "previewImageURLs": [
             "/YCL-playground-books/maze/preview1.png"
         ]
