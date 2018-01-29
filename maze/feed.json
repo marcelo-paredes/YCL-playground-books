@@ -1,18 +1,18 @@
 {
     "title": "YCLMazeMakerPlaygroundBook",
     "publisherName": "Marcelo Paredes",
-    "feedIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1",
+    "feedIdentifier": "cl.yurai.playgrounds",
     "contactURL": "mailto:yurai.cl@gmail.com",
     "formatVersion": "1.0",
     "documents": [{
         "title": "YCLMazeMaker",
         "subtitle": "Simple Maze making tools",
         "description": "Tools for making simple mazes",
-        "contentIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.mazes",
+        "contentIdentifier": "cl.yurai.playgrounds.mazes",
         "contentVersion": "1.0",
         "url": "https://marcelo-paredes.github.io/YCL-playground-books/maze/YCLMazeMaker.playgroundbook.zip",
-        "publishedDate": "2018-01-28T00:00:00+00:00",
-        "lastUpdatedDate": "2018-01-28T00:00:30+00:00",
+        "publishedDate": "2018-01-28T12:00:00+00:00",
+        "lastUpdatedDate": "2018-01-28T13:00:30+00:00",
         "thumbnailURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/thumbnail.png",
         "bannerImageURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/banner.png",
         "additionalInformation": [{
@@ -34,6 +34,6 @@
             }
         ],
         "previewImageURLs": [],
-        "sha512": "17d83431cdcf8694c8f6c50f94efac48afb5b58bd1bceeefe2b4782ecb55cc96bd855770bd6f05c500c8998168eb9ed86259cff819d46b641caee9a975326603"
+        "sha512": "b17848c183aa46b20fa128baf5850e8f1876b688c09bde77702e82775a635430ec4f992dbe69463963efd714d6673f160bf62a18d88740878cd5f59a0b5903fc"
     }]
 }
