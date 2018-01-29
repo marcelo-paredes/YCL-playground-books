@@ -10,11 +10,11 @@
         "description": "Tools for making simple mazes",
         "contentIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.mazes",
         "contentVersion": "1.0",
-        "url": "./YCLMazeMaker.playgroundbook.zip",
+        "url": "https://marcelo-paredes.github.io/YCL-playground-books/maze/YCLMazeM(aker.playgroundbook.zip",
         "publishedDate": "2018-01-28T00:00:00+00:00",
         "lastUpdateDate": "2018-01-28T00:00:30+00:00",
-        "thumbnailURL": "./thumbnail.png",
-        "bannerImageURL": "./banner.png",
+        "thumbnailURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/thumbnail.png",
+        "bannerImageURL": "https://marcelo-paredes.github.io/YCL-playground-books/maze/banner.png",
         "additionalInformation": [{
                 "name": "Languages:",
                 "value": "English"
@@ -34,6 +34,6 @@
             }
         ],
         "previewImageURLs": [],
-        "sha512": "b81ef4d29bfd256ffced61e55e0dc23c60f381cb1aabd48d68910ec8e5af60924858e398e2f82ae49b94d05bf0e4260a368e63afdb2e71978a6deb0228490b58 "
+        "sha512": "17d83431cdcf8694c8f6c50f94efac48afb5b58bd1bceeefe2b4782ecb55cc96bd855770bd6f05c500c8998168eb9ed86259cff819d46b641caee9a975326603"
     }]
 }
