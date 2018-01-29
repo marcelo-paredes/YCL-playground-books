@@ -33,6 +33,7 @@
                 "type": "date"
             }
         ],
-        "previewImageURLs": []
+        "previewImageURLs": [],
+        "sha512": "b81ef4d29bfd256ffced61e55e0dc23c60f381cb1aabd48d68910ec8e5af60924858e398e2f82ae49b94d05bf0e4260a368e63afdb2e71978a6deb0228490b58 "
     }]
 }
