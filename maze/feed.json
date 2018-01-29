@@ -16,20 +16,23 @@
         "thumbnailURL": "./thumbnail.png",
         "bannerImageURL": "./banner.png",
         "additionalInformation": [{
-                "name": "Languages",
+                "name": "Languages:",
                 "value": "English"
             },
             {
-                "name": "Publisher",
+                "name": "Publisher:",
                 "value": "Yurai.CL"
             },
             {
-                "name": "Version",
+                "name": "Version:",
                 "value": "1.0"
+            },
+            {
+                "name": "Released:",
+                "value": "2018-01-28T00:00:00+00:00",
+                "type": "date"
             }
         ],
-        "previewImageURLs": [
-            "./preview1.png"
-        ]
+        "previewImageURLs": []
     }]
 }
