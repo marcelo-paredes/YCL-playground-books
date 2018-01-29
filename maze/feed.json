@@ -7,16 +7,14 @@
     "documents": [{
         "title": "YCLMazeMaker",
         "subtitle": "Simple Maze making tools",
-        "overviewSubtitle": "Simple maze making tools",
-        "detailSubtitle": "making mazes with simple rules",
         "description": "Tools for making simple mazes",
         "contentIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.mazes",
         "contentVersion": "1.0",
-        "url": "/YCL-playground-books/maze/YCLMazeMaker.playgroundbook.zip",
+        "url": "./YCLMazeMaker.playgroundbook.zip",
         "publishedDate": "2018-01-28T00:00:00+00:00",
         "lastUpdateDate": "2018-01-28T00:00:20+00:00",
-        "thumbnailURL": "/YCL-playground-books/maze/thumbnail.png",
-        "bannerImageURL": "/YCL-playground-books/maze/banner.png",
+        "thumbnailURL": "./thumbnail.png",
+        "bannerImageURL": "./banner.png",
         "additionalInformation": [{
                 "name": "Languages",
                 "value": "English"
@@ -31,7 +29,7 @@
             }
         ],
         "previewImageURLs": [
-            "/YCL-playground-books/maze/preview1.png"
+            "./preview1.png"
         ]
     }]
 }
